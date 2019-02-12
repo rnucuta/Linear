@@ -1,6 +1,6 @@
 # Linear
 
-Font made using FontStruct meant to mimic MIT's abstract logo, as seen below. 
+Font made using FontStruct meant to mimic MIT's abstract logo, as seen below:
 <br>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
