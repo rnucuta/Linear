@@ -1,4 +1,4 @@
-# Linear
+# Linear Font
 
 Font made using FontStruct meant to mimic MIT's abstract logo, as seen below:
 <br>
